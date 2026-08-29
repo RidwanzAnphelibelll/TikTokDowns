@@ -1,0 +1,16 @@
+{
+  "name": "TikTokDowns",
+  "main": "index.js",
+  
+  "scripts": {
+    "start": "node index.js"
+  },
+  
+  "author": "RSCoders",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "chalk": "^4.1.0",
+    "axios": "^1.7.7",
+    "express": "^4.21.0"
+  }
+}
